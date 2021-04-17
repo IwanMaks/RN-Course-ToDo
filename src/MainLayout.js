@@ -101,6 +101,7 @@ export const MainLayout = () => {
         </View>
     );
 };
+// TODO Add new functional too2323
 
 const styles = StyleSheet.create({
     container: {

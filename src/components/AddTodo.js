@@ -5,6 +5,7 @@ import { THEME } from "../theme";
 
 export const AddTodo = ({ onSubmit }) => {
     const [value, setValue] = useState("");
+    // TODO Add new functional
 
     const pressHandler = () => {
         if (value.trim() !== "") {
